@@ -1,2 +1,2 @@
-# prak_web2
+# laravel
 latihan praktikum web 2 
